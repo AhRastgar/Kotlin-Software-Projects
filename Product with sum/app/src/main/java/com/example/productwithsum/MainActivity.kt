@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
         
         bt.setOnClickListener()
         {
-            var a = tn1.text.toString().toInt()
-            var b = tn2.text.toString().toInt()
+            val a = tn1.text.toString().toInt()
+            val b = tn2.text.toString().toInt()
             var i = 1
             var prd = 0
             
