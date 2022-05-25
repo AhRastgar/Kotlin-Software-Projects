@@ -1,4 +1,4 @@
-package com.example.drawrectangle
+package com.example.drawtrianglea
 
 import org.junit.Test
 
